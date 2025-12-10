@@ -8,9 +8,9 @@ This prevention program generates a large amount of data, which is rarely shared
 
 In this GitHub folder, you will find supplementary information, including the list of diseases covered in Lombardy, the features provided in the public dataset, and the code used for data cleaning.
 
-The dataset is available at the following link: \url{https://zenodo.org/records/16411149}
+The dataset is available at the following link: https://zenodo.org/records/16411149
 
-Please, before use it read carefully the dataset description at \url{https://www.nature.com/articles/s41597-025-06389-4}
+Please, before use it read carefully the dataset description at https://www.nature.com/articles/s41597-025-06389-4
 
 
 For any questions please contact g.lopiano1@campus.unimib.it
